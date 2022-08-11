@@ -1,9 +1,9 @@
 RENCANA WEB
-interview
 membuat apk berjalan
 es6
 fremwork
 boom
+angular
 view
 php
 reat
