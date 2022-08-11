@@ -1,3 +1,5 @@
 RENCANA WEB
 interview
 membuat apk berjalan
+es6
+fremwork
